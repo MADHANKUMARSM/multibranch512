@@ -1,4 +1,4 @@
-node('build-in') 
+node('slave_lab') 
 {
  stage('continuous download') 
 {
