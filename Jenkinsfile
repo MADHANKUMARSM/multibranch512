@@ -1,4 +1,4 @@
-node('built-in') 
+node('slave_lab') 
 {
  stage('continuous download_loans') 
 {
